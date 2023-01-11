@@ -1,0 +1,9 @@
+body{
+    background-image: url(../kepek/hatter.jpg);
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+}
